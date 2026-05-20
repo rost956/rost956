@@ -91,31 +91,18 @@ Message Brokers
 
 ---
 
-## GitHub Stats
+## Profile
 
-<p align="center">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=tokyonight&hide_border=true"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=default&hide_border=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=tokyonight&hide_border=true"
-      alt="GitHub Stats"
-    />
-  </picture>
-</p>
+```txt
+Software stack:
+Python / Go / C++ / C / Assembly / SQL
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=rost956&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-    alt="Top Languages"
-  />
-</p>
+Backend:
+Django / PostgreSQL / Kafka / Docker
+
+Tools:
+Linux / Git / Bash / VS Code
+```
 
 ---
 
