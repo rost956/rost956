@@ -13,7 +13,6 @@ Python • Go • C++ • C • Assembly • Django • PostgreSQL • Kafka •
 <br><br>
 
 <img src="https://img.shields.io/badge/Assembly-111827?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 </div>
 
