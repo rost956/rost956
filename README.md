@@ -1,16 +1,111 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**rost956/rost956** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=220&section=header&text=rost956&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-Here are some ideas to get you started:
+# Software Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Python • Go • C++ • C • Assembly • Django • PostgreSQL • Kafka • Docker • Linux
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,go,cpp,c,django,postgres,kafka,docker,linux,git,bash,vscode&theme=dark" />
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Assembly-111827?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-111827?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+</div>
+
+---
+
+## About
+
+I work with backend development, databases, system programming, low-level software and development infrastructure.
+
+My main stack includes Python, Go, C++, C, Assembly, Django, PostgreSQL, Kafka, Docker and Linux-based development tools.
+
+---
+
+## Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,cpp,c&theme=dark" />
+</p>
+
+- Python
+- Go
+- C++
+- C
+- Assembly
+- SQL
+
+---
+
+## Backend, Databases & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=django,postgres,kafka,docker&theme=dark" />
+</p>
+
+- Django
+- PostgreSQL
+- Apache Kafka
+- Docker
+
+---
+
+## Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,bash,vscode&theme=dark" />
+</p>
+
+- Linux
+- Git
+- Bash
+- VS Code
+
+---
+
+## Additional Experience
+
+- Arduino
+- PIC microcontrollers
+- MIK32
+- KiCad
+- EasyEDA
+
+---
+
+## Focus Areas
+
+```txt
+Backend Development
+System Programming
+Database Design
+Low-Level Development
+Software Architecture
+Infrastructure & Containers
+Message Brokers
+```
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rost956&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2563eb,100:0f172a&height=2&section=footer" />
+
+</div>
