@@ -10,7 +10,7 @@ Python • Go • C++ • C • Assembly • Django • PostgreSQL • Kafka •
 
 <img src="https://skillicons.dev/icons?i=python,go,cpp,c,django,postgres,kafka,docker,linux,git,bash,vscode&theme=dark" />
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Assembly-111827?style=for-the-badge&logoColor=white" />
 
@@ -93,13 +93,29 @@ Message Brokers
 
 ## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=default&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=tokyonight&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </picture>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=rost956&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rost956&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" />
-
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=rost956&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+    alt="Top Languages"
+  />
+</p>
 
 ---
 
